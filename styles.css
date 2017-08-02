@@ -1,0 +1,72 @@
+h1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Georgia sans-serif;
+  font-size: 50px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+
+}
+
+header li {
+  background-color: grey;
+  display:inline-block;
+  text-align: center;
+  font-size: 30px;
+
+}
+header ul {
+  text-align: center;
+  margin-top:10px;
+  margin-bottom: 2px;
+}
+
+header li a {
+  color: white;
+  text-decoration: none;
+}
+
+h3 {
+  background-color: #31F3CA;
+  line-height: 35px;
+}
+
+.photo {
+  width:33%;
+  display:inline-block;
+  margin:auto;
+  text-align: center;
+}
+
+.edit {
+  background-color: yellow;
+  line-height: 30px;
+  width:394px;
+  display: inline-block;
+  margin:10px 10px;
+}
+
+
+.photo li{
+  display: inline;
+  text-align: center;
+  background-color: yellow;
+  width:100px;
+  margin: 10px 10px;
+
+}
+
+.main {
+  margin:10px auto;
+  width: 100%;
+  display: inline-block;
+}
+
+footer {
+  background-color: black;
+  color:white;
+  text-align: center;
+  height:50px;
+  padding:5px 50px;
+}
