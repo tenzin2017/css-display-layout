@@ -8,12 +8,16 @@ h1 {
   margin-top: 2px;
 
 }
+nav {
+  text-align: center;
+}
 
-header li {
+nav li{
   background-color: grey;
-  display:inline-block;
+  display:inline;
   text-align: center;
   font-size: 30px;
+  margin:10px;
 
 }
 header ul {
